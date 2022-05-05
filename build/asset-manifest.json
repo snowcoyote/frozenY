@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dca7d97.css",
+    "main.js": "/static/js/main.65ff5ba8.js",
+    "static/js/787.3291efd5.chunk.js": "/static/js/787.3291efd5.chunk.js",
+    "static/media/bg-home.jpg": "/static/media/bg-home.189bc35d596ee7fea330.jpg",
+    "static/media/lato-bold-webfont.svg": "/static/media/lato-bold-webfont.93a55758fea423bab895.svg",
+    "static/media/lato-regular-webfont.svg": "/static/media/lato-regular-webfont.4dfd370bdb2231c7cbdd.svg",
+    "static/media/quicksand-bold-webfont.svg": "/static/media/quicksand-bold-webfont.a2723a1838a9cdd74ba5.svg",
+    "static/media/map.jpg": "/static/media/map.2bcc5f56b5ce2b7accb4.jpg",
+    "static/media/roboto-regular-webfont.svg": "/static/media/roboto-regular-webfont.b6ce473472082e19576c.svg",
+    "static/media/lato-bold-webfont.ttf": "/static/media/lato-bold-webfont.9d1c50dd75220ff658a0.ttf",
+    "static/media/magra-bold-webfont.svg": "/static/media/magra-bold-webfont.771af2b60f742fbc25b9.svg",
+    "static/media/lato-regular-webfont.ttf": "/static/media/lato-regular-webfont.d9233c000d7113c96736.ttf",
+    "static/media/quicksand-bold-webfont.ttf": "/static/media/quicksand-bold-webfont.36c84d7f031b56674d2d.ttf",
+    "static/media/roboto-regular-webfont.ttf": "/static/media/roboto-regular-webfont.0dadd2d22cf38c0d048b.ttf",
+    "static/media/magra-bold-webfont.ttf": "/static/media/magra-bold-webfont.6a8e37b4c3c177a6195f.ttf",
+    "static/media/lato-bold-webfont.woff": "/static/media/lato-bold-webfont.1906314ef6f966668423.woff",
+    "static/media/lato-regular-webfont.woff": "/static/media/lato-regular-webfont.4e75c6f1c4b7ed71795b.woff",
+    "static/media/lato-bold-webfont.eot": "/static/media/lato-bold-webfont.976a25db7d3e503b1ec4.eot",
+    "static/media/lato-regular-webfont.eot": "/static/media/lato-regular-webfont.4bc5ceb46badbe3a5fa0.eot",
+    "static/media/quicksand-bold-webfont.woff": "/static/media/quicksand-bold-webfont.4347b88a3cb69526965b.woff",
+    "static/media/magra-bold-webfont.woff": "/static/media/magra-bold-webfont.4f4aa32a3ca3e53a4236.woff",
+    "static/media/roboto-regular-webfont.woff": "/static/media/roboto-regular-webfont.f76228460d4334b1ccf7.woff",
+    "static/media/quicksand-bold-webfont.eot": "/static/media/quicksand-bold-webfont.eb0a895c72e85121d638.eot",
+    "static/media/magra-bold-webfont.eot": "/static/media/magra-bold-webfont.cec1c016ac14f0ff80d6.eot",
+    "static/media/yogurt.jpg": "/static/media/yogurt.cf7e9b6d7950684e4918.jpg",
+    "static/media/roboto-regular-webfont.eot": "/static/media/roboto-regular-webfont.8d8d6308fe9dcf48339f.eot",
+    "static/media/icons.png": "/static/media/icons.d0f0e3ed2da7a8d87e64.png",
+    "index.html": "/index.html",
+    "main.4dca7d97.css.map": "/static/css/main.4dca7d97.css.map",
+    "main.65ff5ba8.js.map": "/static/js/main.65ff5ba8.js.map",
+    "787.3291efd5.chunk.js.map": "/static/js/787.3291efd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dca7d97.css",
+    "static/js/main.65ff5ba8.js"
+  ]
+}
